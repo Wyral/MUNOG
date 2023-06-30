@@ -1,4 +1,4 @@
-export default function loading_screen() {
+export default function loading_screen1() {
   return (
     <section>
     <div id="loading-screen">
