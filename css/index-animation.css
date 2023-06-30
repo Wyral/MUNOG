@@ -1,0 +1,1110 @@
+#loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loading-svg-container {
+  width: 25vw;
+}
+
+.loading-svg {
+  width: 100%;
+  height: 100%;
+}
+
+.loading-svg circle {
+  stroke: #7e5c14;
+  stroke-width: 5;
+  stroke-dasharray: 314;
+  stroke-dashoffset: 314;
+  animation: dash 1s linear infinite;
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 314;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes eyqdVOg8xDo2_c_o {
+  0% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  6.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo3 {
+  animation: eyqdVOg8xDo3_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo3_c_o {
+  0% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  6.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo4 {
+  animation: eyqdVOg8xDo4_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo4_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  6.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo5 {
+  animation: eyqdVOg8xDo5_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo5_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  6.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo6 {
+  animation: eyqdVOg8xDo6_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo6_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo7 {
+  animation: eyqdVOg8xDo7_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo7_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  13.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo8 {
+  animation: eyqdVOg8xDo8_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo8_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo9 {
+  animation: eyqdVOg8xDo9_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo9_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  23.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo10 {
+  animation: eyqdVOg8xDo10_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo10_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo11 {
+  animation: eyqdVOg8xDo11_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo11_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  30% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo12 {
+  animation: eyqdVOg8xDo12_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo12_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo13 {
+  animation: eyqdVOg8xDo13_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo13_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  36.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo14 {
+  animation: eyqdVOg8xDo14_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo14_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo15 {
+  animation: eyqdVOg8xDo15_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo15_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  43.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo16 {
+  animation: eyqdVOg8xDo16_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo16_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  50% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo17 {
+  animation: eyqdVOg8xDo17_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo17_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  56.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo18 {
+  animation: eyqdVOg8xDo18_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo18_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  63.333333% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo19 {
+  animation: eyqdVOg8xDo19_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo19_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  70% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo20 {
+  animation: eyqdVOg8xDo20_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo20_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  76.666667% {
+    opacity: 1;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#eyqdVOg8xDo21 {
+  animation: eyqdVOg8xDo21_c_o 3000ms linear infinite normal forwards;
+}
+
+@keyframes eyqdVOg8xDo21_c_o {
+  0% {
+    opacity: 0;
+    animation-timing-function: step-end;
+  }
+
+  83.333333% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
