@@ -26,25 +26,25 @@ const Navbar = () => (
       </Button>
       <Content tabIndex="0">
         <ul>
-          <Link href="about.html">About</Link>
-          <Link href="newsroom.html">News</Link>
-          <Link href="support-us.html">Support Us</Link>
-          <Link href="galerie.html">Galerie</Link>
-          <Link href="archive.html">Archive</Link>
-          <Link href="press.html">Press</Link>
-          <Link href="contact.html">Contact</Link>
+          <Link href="about">About</Link>
+          <Link href="newsroom">News</Link>
+          <Link href="support-us">Support Us</Link>
+          <Link href="galerie">Galerie</Link>
+          <Link href="archive">Archive</Link>
+          <Link href="press">Press</Link>
+          <Link href="contact">Contact</Link>
           <SmallLinks data={{
-            "Partner": "partner.html", 
-            "Imprint": "imprint.html", 
-            "Contact": "contact.html", 
-            "Privacy": "privacy.html"
+            "Partner": "partner", 
+            "Imprint": "imprint", 
+            "Contact": "contact", 
+            "Privacy": "privacy"
           }} />
           <SmallLinks data={{
-            "Partner": "partner.html", 
-            "Impressum": "imprint.html", 
-            "Kontakt": "contact.html", 
-            "Datenschutz": "privacy.html", 
-            "Login": "login.html"
+            "Partner": "partner", 
+            "Impressum": "imprint", 
+            "Kontakt": "contact", 
+            "Datenschutz": "privacy", 
+            "Login": "login"
           }} />
         </ul>
       </Content>

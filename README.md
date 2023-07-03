@@ -43,7 +43,8 @@ Die Dateien/Ordner `/node_modules`, `/package.json`, `/package-lock.json` und `/
 __________________________
 ## TODO
 - [ ] Invitation Letter
-- [ ] Mobile carousel bei Sponsoren-Logos
+- [X] Mobile carousel bei Sponsoren-Logos
 - [ ] Restliche Unterseiten
 - [ ] Nutzerfreundlicher machen
 - [ ] Anleitung 
+- [ ] Texte/Datum zentral

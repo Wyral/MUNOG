@@ -29,7 +29,7 @@ const SponsorWrapper = styled.div`
   }
 
   & > div > div {
-    display: flex;
+    max-width: 1500px;
   }
 `;
 

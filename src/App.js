@@ -6,6 +6,7 @@ import { GlobalStyle } from './GlobalStyles'
 import NotFound from './components/NotFound'
 import Home from './components/Home'
 import Navbar from './components/Navbar'
+import Privacy from './components/Privacy'
 
 const loading_screen = document.getElementById('loading-screen');
 
@@ -18,7 +19,7 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
-
+        <Route path='/Privacy' element={<Privacy />} />
         <Route path='/*' element={<NotFound />} />
       </Routes>
 
