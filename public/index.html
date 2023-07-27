@@ -37,22 +37,26 @@
 </head>
 
 <body>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="loading-screen">
-    <svg version="1.1" id="L4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-      y="0px" viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve">
-      <circle fill="#fff" stroke="none" cx="6" cy="50" r="6">
-        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.1" />
-      </circle>
-      <circle fill="#fff" stroke="none" cx="26" cy="50" r="6">
-        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.2" />
-      </circle>
-      <circle fill="#fff" stroke="none" cx="46" cy="50" r="6">
-        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.3" />
-      </circle>
-    </svg>
-  </div>
-  <div id="root"></div>
+  function Profile() {
+  return (
+    <img
+      src="https://i.imgur.com/MK3eW3As.jpg"
+      alt="Katherine Johnson"
+    />
+  );
+}
+
+export default function Gallery() {
+  return (
+    <section>
+      <h1>Amazing scientists</h1>
+      <Profile />
+      <Profile />
+      <Profile />
+    </section>
+  );
+}
+
 </body>
 
 </html>
